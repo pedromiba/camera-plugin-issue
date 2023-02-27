@@ -1,0 +1,7 @@
+{
+  "name": "camera-plugin-reproduction-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
